@@ -1,0 +1,30 @@
+=== Percentage Calculator by Calculator.iO ===
+Contributors: calculatorio
+Tags: 
+Requires at least: 5.0
+Tested up to: 6.0
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
+
+== Description ==
+
+This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
+
+== Installation ==
+
+1. Upload the /ci_percentage_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the [Percentage Calculator](https://www.calculator.io/percentage-calculator/ "Percentage Calculator Homepage") plugin through the "Plugins" menu in WordPress.
+3. Configure your settings via Appearance > Widgets > Percentage Calculator.
+4. And you're good to go!
+
+== Screenshots ==
+1. The Percentage Calculator Input Form.
+2. The Percentage Calculator Calculation Results.
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
