@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.2.2
+Tested up to: 6.3.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,14 @@ This percentage calculator computes the percent of a number, the percentage chan
 == Description ==
 
 This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
+
+Libraries in use:
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Installation ==
 
