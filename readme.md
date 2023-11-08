@@ -13,7 +13,7 @@ This percentage calculator computes the percent of a number, the percentage chan
 
 ## Usage
 * Add the shortcode `[ci_percentage_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_percentage_calculator(); ?>` to your template where you would like the Percentage Calculator to appear.
+* Or add the following code: `<?php display_ci_percentage_calculator(); ?>` to your template where you would like the Percentage Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
