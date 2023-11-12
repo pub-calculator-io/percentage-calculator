@@ -13,34 +13,35 @@ This percentage calculator computes the percent of a number, the percentage chan
 
 This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
 
-[Percentage Calculator Homepage](https://www.calculator.io/percentage-calculator/ "Percentage Calculator Homepage")
+[https://www.calculator.io/percentage-calculator/](https://www.calculator.io/percentage-calculator/)
 
-__Shortcode__
-
-Use the Percentage Calculator shortcode:
+__Percentage Calculator Shortcode__
 
 `[ci_percentage_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_percentage_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Percentage Calculator](https://www.calculator.io/percentage-calculator/ "Percentage Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Percentage Calculator Usage ==
+
 * Add the shortcode `[ci_percentage_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_percentage_calculator(); ?>` to your template where you would like the Percentage Calculator to appear.
 
 == Screenshots ==
+
 1. The Percentage Calculator Input Form.
 2. The Percentage Calculator Calculation Results.
+
+== Libraries used in Percentage Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
