@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
 
-== Description ==
-
-This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
-
 [https://www.calculator.io/percentage-calculator/](https://www.calculator.io/percentage-calculator/)
 
-__Percentage Calculator Shortcode__
+== Usage ==
+
+Add the Percentage Calculator shortcode to your page, post or sidebar:
 
 `[ci_percentage_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Percentage Calculator to appear:
 
-1. Upload the /ci_percentage_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Percentage Calculator](https://www.calculator.io/percentage-calculator/ "Percentage Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Percentage Calculator Usage ==
-
-* Add the shortcode `[ci_percentage_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_percentage_calculator(); ?>` to your template where you would like the Percentage Calculator to appear.
+`<?php display_ci_percentage_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Percentage Calculator Input Form.
 2. The Percentage Calculator Calculation Results.
 
-== Libraries used in Percentage Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Percentage Calculator /ci_percentage_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Percentage Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Percentage Calculator
