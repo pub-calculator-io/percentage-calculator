@@ -1,4 +1,4 @@
-# Percentage Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Percentage Calculator Widget for WordPress
 
 This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
 
