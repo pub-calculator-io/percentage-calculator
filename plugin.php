@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Percentage Calculator by www.calculator.io
+Plugin Name: CI Percentage calculator
 Plugin URI: https://www.calculator.io/percentage-calculator/
 Description: This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
 Version: 1.0.0
