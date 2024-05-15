@@ -3,7 +3,6 @@
 This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
 
 ![Percentage Calculator Input Form](/assets/images/screenshot-1.png "Percentage Calculator Input Form")
-![Percentage Calculator Calculation Results](/assets/images/screenshot-2.png "Percentage Calculator Calculation Results")
 
 ## Installation
 
