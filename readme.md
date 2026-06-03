@@ -1,6 +1,6 @@
 # Percentage Calculator Widget for WordPress
 
-This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.
+Instantly calculate percentages, percentage change, and percent differences with our free Percentage Calculator. Get fast, accurate results in seconds!
 
 ![Percentage Calculator Input Form](/assets/images/screenshot-1.png "Percentage Calculator Input Form")
 
@@ -11,8 +11,8 @@ This percentage calculator computes the percent of a number, the percentage chan
 3. Activate the [Percentage Calculator](https://www.calculator.io/percentage-calculator/ "Percentage Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_percentage_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_percentage_calculator(); ?>` to your template where you would like the Percentage Calculator to appear.
+* Add the shortcode `[calcio_percentage_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_percentage_calculator(); ?>` to your template where you would like the Percentage Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/

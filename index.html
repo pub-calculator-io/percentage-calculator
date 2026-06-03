@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
-    <meta name="description" content="This percentage calculator computes the percent of a number, the percentage change, and the quantity of a number whose percentage is provided.">
+    <meta name="description" content="Instantly calculate percentages, percentage change, and percent differences with our free Percentage Calculator. Get fast, accurate results in seconds!">
     <link rel="preload" href="./assets/fonts/inter-v12-latin-regular.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="./assets/fonts/inter-v12-latin-500.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="./assets/fonts/inter-v12-latin-600.woff2" as="font" crossorigin type="font/woff2">
@@ -28,7 +28,7 @@
             <div class="calculator-setting" id="calculator_form">
                 <div class="calculator-content col">
                 	<div class="input-wrapper row">
-                		<label class="input col percentage-increase-calculator,percentage-change-calculator,percentage-difference-calculator,percentile-calculator,percent-to-fraction-calculator,percentage-decrease-calculator">
+                		<label class="input col percentage-increase-calculator,percentage-change-calculator,percentage-difference-calculator,percentile-calculator,percent-to-fraction-calculator,percentage-decrease-calculator" style="">
                 			
                 			<div class="dropdown-wrapper">
                 				<div class="input-field row " tabindex="0">
@@ -48,7 +48,8 @@
                 					</select>
                 				</div>
                 			</div>
-                		</label>	</div>
+                		</label>
+                	</div>
                 	<div class="input-wrapper input-wrapper--square row tab tab--active" data-tab="0">
                 		<p class="input-field__hint">What is</p>
                 		<label class="input col percentage-increase-calculator,percentage-change-calculator,percentage-difference-calculator,percentile-calculator,percent-to-fraction-calculator,percentage-decrease-calculator  ">
@@ -186,12 +187,16 @@
                 		
                 		</label>	</div>
                 </div>
-                <div class="calculator-content calculator-content--gray calculator-content--footer calculator-content--small row  " >
+                <div class="calculator-content calculator-content--gray calculator-content--footer calculator-content--small row  "
+                	>
                 
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
+                
+                	<button class="button button--primary  ml-auto "
+                		onclick="calculate(this); animateElements();" data-action="calculate"
+                		id="action-button">Calculate</button>
                 </div>
                 
                 
@@ -199,7 +204,7 @@
                 
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
+                <script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
